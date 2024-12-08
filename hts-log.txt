@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Dec 2024 02:13:10 at https://theintercept.com/2024/11/27/ceo-murder-case-breakthrough-mike-garcia-caught-blaming-unitedhealth-denial-for-sisters-death/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theintercept.com/2024/11/27/ceo-murder-case-breakthrough-mike-garcia-caught-blaming-unitedhealth-denial-for-sisters-death/ -O1 "C:\Users\shado\Dropbox\My PC (DESKTOP-C7UPTTD)\Desktop\Larp Creator\intersept.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:13:22	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://theintercept.com/2024/11/27/biden-trump-commutations-death-row-executions/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 51 links scanned, 49 files written (8934478 bytes overall) [8414878 bytes received at 701239 bytes/sec], 719423 bytes transferred using HTTP compression in 13 files, ratio 24%, 8.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
